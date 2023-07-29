@@ -559,7 +559,7 @@ function addMumbai() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"I      Jamshedpur",
+			"I      India",
 			{ x: -10, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			2, 0.5, 0.2,
@@ -601,7 +601,7 @@ function addBio() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"Hi, I am Col. Rohit Sinha, 17 years young high school student with a keen interest in ",
+			"Hi, I am Rohit Sinha, and I am proud to be the Director of Leidlik™,",
 			{ x: -7.5, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -611,7 +611,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"programming and software development. I am enthusiastic about Blockchain and",
+			"a dynamic group of three firms - TechMastering, Innovation Port, and Nexture Summit,",
 			{ x: -7.5, y: 0, z: -209.5 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -621,7 +621,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"Android. I am a motivated IT student with a solution-oriented mindset to tackle any",
+			"that are driving innovation and technological excellence.",
 			{ x: -7.5, y: 0, z: -209 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -631,7 +631,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"obstacle that comes in path. I am a passionate learner who keeps on learning new",
+			"I am also the proud author of "School to Startup," a book that combines my",
 			{ x: -7.5, y: 0, z: -208.5 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -641,7 +641,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"technologies and expands his skillset to become a valuable asset for any company.",
+			"general studies and notes.",
 			{ x: -7.5, y: 0, z: -208 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -651,7 +651,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"I am the Director of Leidlik™, dynamic group of three firms.",
+			"LET'S GROW TOGETHER.",
 			{ x: -7.5, y: 0, z: -207 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
