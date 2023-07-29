@@ -27,7 +27,7 @@ var links = ['https://MTK',
 	'https://www.github.com/',
 	'https://www.linkedin.com/in/rohitjsr',
 	'mailto:mail.rohitsinha.in@gmail.com',
-	'resume/rohit_resume.pdf'
+	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk'
 ];
 
 //loading screen components
