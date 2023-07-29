@@ -1905,7 +1905,7 @@ function addKB() {
 		scene.add(bohraText);
 		var devText = createText(
 			font,
-			"SOFTWARE D",
+			"",
 			{ x: 3, y: 0, z: -6 },
 			DEFAULT_ROTATION,
 			0.35, 2, 0.6,
@@ -1914,7 +1914,7 @@ function addKB() {
 		scene.add(devText);
 		var eText = createText(
 			font,
-			"E",
+			"",
 			{ x: 9.35, y: 0, z: -6 },
 			DEFAULT_ROTATION,
 			0.35, 2, 0.6,
@@ -1924,7 +1924,7 @@ function addKB() {
 		scene.add(eText);
 		var vText = createText(
 			font,
-			"V",
+			"",
 			{ x: 9.85, y: 0, z: -6 },
 			DEFAULT_ROTATION,
 			0.35, 2, 0.6,
@@ -2171,7 +2171,7 @@ function addProjectDesc() {
 		//instanote
 		var text = createText(
 			font,
-			"Most Techy Kid",
+			"Most-Techy-Kid",
 			{ x: 8, y: -0.2, z: -27 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0x6e5773
@@ -2259,7 +2259,7 @@ function addProjectDesc() {
 		//essentialskart
 		var text = createText(
 			font,
-			"Super Talented Kid",
+			"Super Kid Award",
 			{ x: 7, y: -0.2, z: -47 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xee8276
@@ -2297,7 +2297,7 @@ function addProjectDesc() {
 		//xervixx
 		var text = createText(
 			font,
-			"Business Achiever",
+			"Biz. Achiever",
 			{ x: 8, y: -0.2, z: -67 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xf1935c
