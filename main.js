@@ -651,7 +651,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"I am the Founder and CEO of TechMastering and EDITOR-IN-CHIEF of The Interpret Media Network.",
+			"I am the Director of Leidlik™, dynamic group of three firms.",
 			{ x: -7.5, y: 0, z: -207 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
